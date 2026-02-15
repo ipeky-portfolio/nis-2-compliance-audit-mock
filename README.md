@@ -1,4 +1,4 @@
-# NIS-2 Compliance Audit Portfolio - [Dein Name]
+# NIS-2 Compliance Audit Portfolio
 
 Willkommen auf meinem Portfolio-Repository. Dieses Repository demonstriert meine Kompetenz in der **Überprüfung der Konformität nach der EU-Richtlinie NIS-2 (EU 2022/2555)**.
 
@@ -6,9 +6,8 @@ Das Portfolio zeigt, wie ich als Auditor die **organisatorischen und technischen
 
 ## Fokus & Kompetenz
 
-* **Rolle:** NIS-2 Compliance Auditor / Berater
 * **Schwerpunkt:** Prüfung von Governance, Risikomanagement-Maßnahmen und Meldeprozessen.
-* **Methodik:** Abgleich der internen Richtlinien mit den Anforderungen der NIS-2 und den nationalen Umsetzungsgesetzen (z.B. BSIG-Neu in Deutschland).
+* **Methodik:** Abgleich der internen Richtlinien mit den Anforderungen der NIS-2 und den nationalen Umsetzungsgesetzen.
 
 ## Repository-Struktur
 
@@ -19,3 +18,6 @@ Das Portfolio zeigt, wie ich als Auditor die **organisatorischen und technischen
 | `02_Meldepflichten` | Incident-Management, Meldeprozesse (Art. 23) |
 | `03_Lieferkette` | Sicherheit in der Supply Chain (Art. 21) |
 | `04_Audit_Report` | Audit-Vorlage und Beispielbefunde |
+
+
+**Disclaimer**: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Bildungs- und Demonstrationszwecken. Es ersetzt keine Rechtsberatung oder formale aufsichtliche Dokumentation.
